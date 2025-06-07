@@ -2,4 +2,14 @@
 
 ## Here is a list of all the python problems that were being solved. 
 ### Python Problems
-1. asdf
+1. 99 bottles of beer on the wall
+2. Cuddly Duddly youtube problem
+3. FizzBuzz operations problem
+4. Harry Potter sorting hat for the wizards
+5. magic 8 ball problem
+6. MySQL practice for python
+7. Weather app practice
+8. atm enter pin practice
+9. detention loop generator
+10. guess the number
+11. the cyclone rollercoaster
