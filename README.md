@@ -18,3 +18,4 @@
 14. declare functions
 15. python arguments
 16. Mastering arguments
+17. Sigma Function
