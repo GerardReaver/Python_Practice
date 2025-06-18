@@ -19,3 +19,4 @@
 15. python arguments
 16. Mastering arguments
 17. Sigma Function
+18. Cubed python function
