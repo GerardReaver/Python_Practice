@@ -13,6 +13,6 @@ def fizzbuzz(n):
         return n
 
 n = int(input())
-
-print(fizzbuzz(n))
     
+for i in range(1, n + 1):
+    print(fizzbuzz(i))
