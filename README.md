@@ -20,3 +20,4 @@
 16. Mastering arguments
 17. Sigma Function
 18. Cubed python function
+19. FizzBuzz functions with inputs
