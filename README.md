@@ -21,3 +21,4 @@
 17. Sigma Function
 18. Cubed python function
 19. FizzBuzz functions with inputs
+20. Modifying List
