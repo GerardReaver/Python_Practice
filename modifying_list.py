@@ -8,6 +8,7 @@
 # For example with the following arguments: change_element([1, 2, 3], 0, 9) the function will return [9, 2, 3]
 
 def change_element(lst, index, new_element):
-    my_list = (lst)
-    my_list[index] = new_element
-    return(my_list)
+    lst[index] = new_element
+    return(lst)
+
+change_element([1, 2, 3], 0, 9)
