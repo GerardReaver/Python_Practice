@@ -1,5 +1,3 @@
-# This will be a mini project to keep track of Daily Expenses. 
-
 print("Welcome to the Daily Expense Tracker!")
 print("")
 print("Menu:")
@@ -10,13 +8,26 @@ print("4. Clear all expenses")
 print("5. Exit")
 
 expenses = []
-
+# This creates the infinite while loop. 
 while True:
-  choice = input()
-  if choice == "5":
-    print("Exiting the Daily Expense Tracker. Goodbye!")
-    break
-  elif choice == "1":
-    var1 = float(input())
-    expenses.append(var1)
-    print("Expense added successfully!)
+    choice = input()
+    # This is the input of the user for the entirety of the program
+    
+    if choice == "1":
+        var1 = float(input())
+        expenses.append(var1)
+        print("Expense added successfully!")
+
+    elif choice == "2":
+        if expenses == []:
+            print("No expenses recorded yet.")
+        else:
+            print("Your expenses:")
+            for i in range(len(expenses)):
+                print(f"{i + 1} {expense[i]}")
+
+    elif choice == "5":
+        print("Exiting the Daily Expense Tracker. Goodbye!")
+        break
+
+    
