@@ -45,4 +45,6 @@
 21. Practice.py
   - Exmaple of how to use .join() and .split() inside of python
 22. Python List Advanced
-  - Example using list insdie of python and addressing the start, stop and steps of the list and its indices. 
+  - Example using list insdie of python and addressing the start, stop and steps of the list and its indices.
+23. Daily Expense Tracker
+  - Exmaple of how to create a real integrated program of how to properly track ones expenses using python. 
