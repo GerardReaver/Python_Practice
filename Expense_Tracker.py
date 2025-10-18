@@ -40,9 +40,15 @@ while True:
             print(f"Total expense: {tot_expense}")
             print(f"Average expense: {avg_expense}")
 
+    elif choice == "4":
+        # Clears everything from the expense list
+        expenses.clear()
+        print("All expenses cleared.")
+
     elif choice == "5":
         # Exit the program
         print("Exiting the Daily Expense Tracker. Goodbye!")
         break
 
-    
+    else:
+        print("Invalid choice. Please try again.")
