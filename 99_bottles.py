@@ -1,4 +1,4 @@
-# i happens to be a variable that you don't have to set outside of the equation. just print it here. 
+# i happens to be a variable that you don't have to set outside of the equation. just print it here
 
 # STRING CONCATENATION
 
@@ -21,4 +21,5 @@ for i in range(99, 0, -1):
   print(f'{i} bottles of beer on the wall')
   print(f'{i} bottles of beer')
   print('Take one down, pass it around')
+
   print(f'{i - 1} bottles of beer on the wall')
