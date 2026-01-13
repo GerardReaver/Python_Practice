@@ -48,3 +48,5 @@
   - Example using list insdie of python and addressing the start, stop and steps of the list and its indices.
 23. Daily Expense Tracker
   - Exmaple of how to create a real integrated program of how to properly track ones expenses using python. 
+24. Simple Calculator
+    - Example of a simple calculator that takes one input from the user and takes another user input to make the final result given the variable given for the equation. 
