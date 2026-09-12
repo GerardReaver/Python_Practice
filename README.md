@@ -51,4 +51,4 @@
 24. Simple Calculator
   - Example of a simple calculator that takes one input from the user and takes another user input to make the final result given the variable given for the equation.
 25. Age verification
-  - Example of how to use nested loops to check an age verification like for movies or websites.  
+  - Example of how to use nested loops to check an age verification like for movies or websites. more code incoming
