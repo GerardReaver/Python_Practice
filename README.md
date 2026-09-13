@@ -52,3 +52,5 @@
   - Example of a simple calculator that takes one input from the user and takes another user input to make the final result given the variable given for the equation.
 25. Age verification
   - Example of how to use nested loops to check an age verification like for movies or websites. more code incoming
+26. Einstein puzzle
+  - Example of how to use dictionaries, create variables, and run loops with constraints to break down the possibilities of a problem. 
