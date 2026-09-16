@@ -139,3 +139,4 @@ could_smoke_pall_mall_and_have_birds = [house3, house4, house5]
 could_smoke_blends.remove(house5)
 could_swede_have_dogs = [house4, house5]
 could_german_smoke_prince = [house2, house4, house5]
+#Make a loop pull for more than one request
