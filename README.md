@@ -54,4 +54,5 @@
   - Example of how to use nested loops to check an age verification like for movies or websites. more code incoming
 26. Einstein puzzle
   - Example of how to use dictionaries, create variables, and run loops with constraints to break down the possibilities of a problem. 
-
+27. Daily Expense Tracker
+  - Example on how to print a working program on python which takes inputs and is able to track expenses such as totals and averages. 
