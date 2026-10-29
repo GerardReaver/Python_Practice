@@ -56,3 +56,5 @@
   - Example of how to use dictionaries, create variables, and run loops with constraints to break down the possibilities of a problem. 
 27. Daily Expense Tracker
   - Example on how to print a working program on python which takes inputs and is able to track expenses such as totals and averages. 
+28. String comparing function
+  - Example on how to use a function to compare lots of string values as they are input as parameters and arguments into the function. 
