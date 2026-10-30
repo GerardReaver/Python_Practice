@@ -1,4 +1,4 @@
-# 👨‍💻Example problems all the different parts of Python. 12456
+# 👨‍💻Example problems all the different parts of Python. 124567
 3
 ## Here is a list of all the python problems that were being solved. 
 ### Python Problems
