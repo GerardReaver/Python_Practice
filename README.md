@@ -1,6 +1,6 @@
-1# 👨‍💻Example problems all the different parts of Python. 23467
-59
-## Here is a list of all the python problems that were being solved. 8
+# 👨‍💻Example problems all the different parts of Python.
+
+## Here is a list of all the python problems that were being solved. 
 ### Python Problems
 1. 99 bottles of beer on the wall
   - Example of a program that practices writing loops. it incorporates mathmatical equations and loops the answer until a desired number is reached for the overall goal of the     problem is to replicate a song.  
